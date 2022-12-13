@@ -1,6 +1,5 @@
 
 // //Group members: Yousef Khalil, Muhammed Kamel, Rawad Altagiuri
-//helloooo
 
 #include <iostream>
 #include <fstream>
