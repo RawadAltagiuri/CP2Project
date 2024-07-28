@@ -31,40 +31,40 @@ Given the name of the state, return all its data in a string formatted EXACTLY l
 
 
 **Output:**
-State: Alaska
-Abbreviation: AL
-Capital: Juneau
-Date of admission: January 01, 1959
-Most populous city: Anchorage
-Population: 698473
-Area: 656525 mi²
-Time zones: AKST (UTC-09), HST (UTC-10)
-DST: Yes
+- State: Alaska
+- Abbreviation: AL
+- Capital: Juneau
+- Date of admission: January 01, 1959
+- Most populous city: Anchorage
+- Population: 698473
+- Area: 656525 mi²
+- Time zones: AKST (UTC-09), HST (UTC-10)
+- DST: Yes
 
 
 #### Query 2
 Return a string with the list of all the capital cities in alphabetical order, followed by the abbreviation of the state between parenthesis, formatted EXACTLY like in the following example:
 
-Albany (NY)
-Annapolis (MD)
+- Albany (NY)
+- Annapolis (MD)
 ...
 
 
 #### Query 3
 Return a string with the list of the five largest states (separated by a new line), formatted EXACTLY like in the following example:
 
-Alaska
-Texas
-California
+- Alaska
+- Texas
+- California
 ...
 
 
 #### Query 4
 Return a string with the list of states ordered based on their date of admission to the union (from the oldest to the newest) followed by the date of admission. The string should be formatted EXACTLY like:
 
-Delaware -> December 07, 1787
-Pennsylvania -> December 12, 1787
-New Jersey -> December 18, 1787
+- Delaware -> December 07, 1787
+- Pennsylvania -> December 12, 1787
+- New Jersey -> December 18, 1787
 ...
 
 
